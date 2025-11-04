@@ -1,5 +1,6 @@
 ## 🙋‍♂️ Introducing Myself
 ***
+![alt text](https://github.com/Munashe22/Munashe22/blob/main/github_readme_header.png?raw=true)
 
 <!--
 **Munashe22/Munashe22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
