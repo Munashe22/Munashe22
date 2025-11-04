@@ -2,17 +2,28 @@
 ***
 ![alt text](https://github.com/Munashe22/Munashe22/blob/main/github_readme_header.png?raw=true)
 
-<!--
-**Munashe22/Munashe22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Munashe. I am a Data Enthusiast with expertise in Machine Learning and Data Analytics. 
 
-Here are some ideas to get you started:
+- Querying data using SQL and scraping using APIs
+- Exploratory Data Analysis using Python or R
+- Machine Learning / Deep Learning using Python (PyTorch)
+- Developing dashboards on Tableau and Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📚 Projects
+
+Please stay tuned for my portfolio before EOY. I am currently working on exciting projects leveraging NLP and computer vision. 
+
+# 🛠️ Tools
+
+- Languages: Python, R, SQL
+- Visualization: Tableau, Looker Studio
+- Cloud: AWS
+
+# 👋 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/munashe-mhlanga/)
+
+# 🤩 Additional Info
+
+- Languages: English, Shona, Ndebele, Zulu, French
+- Interests: Soccer, Basketball, Formula 1, Muay Thai, Hiking
