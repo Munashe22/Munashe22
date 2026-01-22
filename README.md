@@ -2,21 +2,27 @@
 ***
 ![alt text](https://github.com/Munashe22/Munashe22/blob/main/github_readme_header.png?raw=true)
 
-Hello, I'm Munashe. I am a Data Enthusiast with expertise in Machine Learning and Data Analytics. 
+Hello, I'm Munashe. I am a Data Scientist with expertise in Machine Learning and Data Analytics. 
 
 - Querying data using SQL and scraping using APIs
 - Exploratory Data Analysis using Python or R
-- Machine Learning / Deep Learning using Python (PyTorch)
+- Machine Learning / Deep Learning / Computer Vision using Python (PyTorch)
 - Developing dashboards on Tableau and Power BI
 
 # 📚 Projects
 
-Please stay tuned for my portfolio before EOY. I am currently working on exciting projects leveraging NLP and computer vision. 
+### Barbados Traffic Prediction using Neural Networks
+Predicting traffic using computer vision to identify the root causes of traffic in a Barbados roundabout. Full data science pipeline leveraging Pytorch, YOLO model, Random Forest models, and other machine learning techniques.
+[Project Repo](https://github.com/Munashe22/Barbados-Traffic-Prediction-Using-Deep-Learning/tree/main)
+
+### Understanding Cancer Outcomes: Breast vs. Cervical Cancer
+The project investigates survival patterns in breast and cervical cancer using data from The Cancer Genome Atlas (TCGA). Patients with the same diagnosis often experience different outcomes based on factors such as age, cancer stage, treatment received, and other clinical variables. Understanding these patterns can support improvements in patient care and the personalization of treatment strategies. Full Data Science pipeline leveraging Python (including parametric machine learning, classic regression, and boosting methods for prediction)
+[Project Repo](https://github.com/Munashe22/Understanding-Cancer-Outcomes-Breast-vs-Cervical)
 
 # 🛠️ Tools
 
 - Languages: Python, R, SQL
-- Visualization: Tableau, Looker Studio
+- Visualization: Tableau, Power BI
 - Cloud: AWS
 
 # 👋 Connect with me
