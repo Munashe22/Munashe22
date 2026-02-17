@@ -27,7 +27,6 @@ The world changed dramatically during and after the COVID-19 pandemic: dramatic 
 
 ### Upcoming
 - A Python function to be added to the language: *EDA function that takes a dataframe and returns characteristics beyond df.describe()*
-- Global Statistical Analysis of Sentiment and Bias in News Headlines: *A measure of polarization in our society*
 
 # Tools
 
