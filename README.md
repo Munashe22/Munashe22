@@ -11,6 +11,12 @@ Hello, I'm Munashe. I am a Data Scientist with expertise in Machine Learning and
 
 # Projects
 
+### Do Gen Z Have It Tough? The U.S. Economy Over the Years
+
+An evidence-driven mini-analysis examining whether Gen Z (born ~1997–2012) faces worse economic prospects than prior generations. Using historical data, the project compares three core needs—healthcare, housing, and food security—across generations (1960–present) to assess whether Gen Z is worse off; findings point to worsening housing affordability, unequal healthcare burdens, and persistent food insecurity for vulnerable groups.
+<a href="https://munashe.georgetown.domains/US-Economy-Mini-Viz/" style="color:blue;">See The Website</a>
+[Project Repo](https://github.com/Munashe22/US-Economy-Boomers-Millenials-GenZ)
+
 ### Barbados Traffic Prediction using Neural Networks
 Predicting traffic using computer vision to identify the root causes of traffic in a Barbados roundabout. Full data science pipeline leveraging Pytorch, YOLO model, Random Forest models, and other machine learning techniques.
 [Project Repo](https://github.com/Munashe22/Barbados-Traffic-Prediction-Using-Deep-Learning/tree/main)
