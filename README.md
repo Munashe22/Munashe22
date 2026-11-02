@@ -37,8 +37,8 @@ The world changed dramatically during and after the COVID-19 pandemic: dramatic 
 # Tools
 
 - Languages: Python, R, SQL
-- Visualization: Tableau, Power BI
-- Cloud: AWS
+- Visualization: Tableau, Power BI, Metabase
+- Cloud: AWS, Google Cloud, Microsoft Azure
 
 # Connect with me
 
