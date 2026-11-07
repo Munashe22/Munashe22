@@ -31,9 +31,6 @@ The world changed dramatically during and after the COVID-19 pandemic: dramatic 
 <a href="https://github.com/Munashe22/Sentiment-and-Bias-in-Headlines/blob/main/eda/sentiment.png" style="color:purple;">See a viz</a>
 [Project Repo](https://github.com/Munashe22/Sentiment-and-Bias-in-Headlines)
 
-### Upcoming
-- A Python function to be added to the language: *EDA function that takes a dataframe and returns characteristics beyond df.describe()*
-
 # Tools
 
 - Languages: Python, R, SQL
